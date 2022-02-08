@@ -1,0 +1,15 @@
+{
+    "name": "espl/aadharscanner",
+    "description": "This package will extract information from scanned aadhar card. e.g. name, aadhar number, dob, gender",
+    "autoload": {
+        "psr-4": {
+            "Espl\\Aadharscanner\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ankit Patel",
+            "email": "ankit@elitechsystems.com"
+        }
+    ]
+}
