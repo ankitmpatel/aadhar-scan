@@ -12,7 +12,7 @@ More Info: https://github.com/thiagoalessio/tesseract-ocr-for-php
 $ composer require espl/aadharscanner
 ```
 
-#### Usage
+#### Usage 
 
 ```
 use Espl\Aadharscanner\Aadhar;
